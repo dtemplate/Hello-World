@@ -1,7 +1,5 @@
 {
   "name": "Hello-World",
   "description": "A cli that show hello world in console",
-  "commands": [
-    "yarn"
-    ]
+  "commands": ["yarn"]
 }
