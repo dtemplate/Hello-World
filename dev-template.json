@@ -1,5 +1,5 @@
 {
-  "name": "Hello-World",
-  "description": "The hello-world CLI is a great way to learn how to use a new console. It's simple and concise, and it shows you the basic usage of the console. Plus, it's a great way to get started with using a new tool or programming language.",
+  "name": "hello-world",
+  "description": "this template displays the message \"Hello world\" in the console as a simple greeting as this is the first official template.",
   "commands": ["yarn"]
 }
