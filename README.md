@@ -2,7 +2,7 @@
 
 this template displays the message "Hello world" in the console as a simple greeting as this is the first official template. All in js
 
-# How to use
+## How to use
 
 first of all you need to have the [dt cli](https://dtemplate.org/docs/cli/install) installed on your machine.
 
